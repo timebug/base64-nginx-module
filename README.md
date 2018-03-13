@@ -62,7 +62,7 @@ Enables or disables base64 encode.
 
 base64_max_length
 --------------
-**syntax:** *base64 &lt;length&gt;*
+**syntax:** *base64_max_length &lt;length&gt;*
 
 **default:** *1048576 (1MB)*
 
